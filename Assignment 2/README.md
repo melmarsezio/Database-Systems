@@ -1,5 +1,6 @@
 # Assignment 2
 #### Coursework assignment for Database System
+![](https://github.com/melmarsezio/Database-Systems/blob/master/Assignment%202/ass2.png)
 ## Specification
 In regards to aims, problem description and all the questions needed to be answered, details are explained in [*`1. SPEC COMP9311 19T2 - Assignment 2.pdf`*](https://github.com/melmarsezio/Database-Systems/blob/master/Assignment%202/1.%20SPEC%20COMP9311%2019T2%20-%20Assignment%202.pdf)  
 The Background, Data model and Schema are described in [*`2. DATABASE COMP9311 19T2 - Assignment 2.pdf`*](https://github.com/melmarsezio/Database-Systems/blob/master/Assignment%202/2.%20DATABASE%20COMP9311%2019T2%20-%20Assignment%202.pdf) and implemented in [`schema.sql`](https://github.com/melmarsezio/Database-Systems/blob/master/Assignment%202/schema.sql)  
